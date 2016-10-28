@@ -8,6 +8,40 @@ Descriptions under the links below are from the first cell of the notebooks
 
 ##Author: Saurav Sahu, University of British Columbia
 
+* ##[Exploring_netcdf_files.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/sasahu/practise/raw/tip/gyre/Exploring_netcdf_files.ipynb)  
+    
+    Exploring Net CDf files and how to work with them in python from the analysis tool in the Salish Sea Meopar tool repo.  
+      
+      
+    Importing netcdf4 library, numpy array and nc_tools from salish_sea_tools and aliasing the netcdf library and numpy array as nc and np respectively  
+
+
+* ##[tracers_on_horizontal_plane_gyre_run.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/sasahu/practise/raw/tip/gyre/tracers_on_horizontal_plane_gyre_run.ipynb)  
+    
+      
+    Objectives:  
+      
+        1) Reading tracer variable values from NEMO *grid_T.nc results files  
+          
+        2) Plotting sea surface height fields at selected times  
+          
+        3) Approximate land areas masks for tracer field plots  
+          
+        4) Using slices to zoom in on domain regions  
+          
+        5) Plotting contour bands and lines  
+          
+        6) Plotting temperature fields at selected depths  
+          
+        7) Adding contour lines to colour mesh plots  
+          
+        8) Anomaly plots  
+          
+        9) Plotting salinity fields with various colour scales  
+
+
+* ##[plot_bathy.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/sasahu/practise/raw/tip/gyre/plot_bathy.ipynb)  
+    
 
 ##License
 
