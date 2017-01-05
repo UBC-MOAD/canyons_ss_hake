@@ -1,0 +1,13 @@
+Projection    LAMBERT                                                           
+Zunits        NO                                                                
+Units         METERS                                                            
+Spheroid      CLARKE1866                                                        
+Xshift        0.0000000000                                                      
+Yshift        0.0000000000                                                      
+Parameters                                                                      
+ 41 30  0.000 /* 1st standard parallel                                          
+ 50 30  0.000 /* 2nd standard parallel                                          
+-124 30  0.000 /* central meridian                                              
+ 38  0  0.000 /* latitude of projection's origin                                
+0.00000 /* false easting (meters)                                       
+0.00000 /* false northing (meters)                                      
