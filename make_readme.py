@@ -24,7 +24,7 @@ import re
 
 NBVIEWER = 'http://nbviewer.jupyter.org/urls'
 REPO = 'bitbucket.org/sasahu/practise/raw/tip'
-REPO_DIR = 'gyre'
+REPO_DIR = 'bathy_cascadia'
 TITLE_PATTERN = re.compile('#{1,6} ?')
 
 
